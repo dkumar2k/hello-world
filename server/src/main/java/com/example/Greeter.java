@@ -17,3 +17,7 @@ public class Greeter {
     return String.format("Hello, %s!", someone);
   }
 }
+
+/**
+ * This is a class.
+ */
